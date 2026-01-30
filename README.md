@@ -5,14 +5,6 @@ Evaluate the financial health of selected publicly listed companies using
 key financial ratios derived from income statements, balance sheets,
 and cash flow statements.
 
-# Scope
-JPM – JPMorgan Chase
-BAC – Bank of America
-C – Citigroup
-WFC – Wells Fargo
-GS – Goldman Sachs
-
-
 ## Objective
 Evaluate the financial health of selected publicly listed companies using
 key financial ratios derived from income statements, balance sheets,
