@@ -1,13 +1,9 @@
 # Financial Health Analysis of Public Companies
 
-## Objective
-Evaluate the financial health of selected publicly listed companies using
-key financial ratios derived from income statements, balance sheets,
-and cash flow statements.
 
 ## Objective
 Evaluate the financial health of selected publicly listed companies using
-key financial ratios derived from income statements, balance sheets,
+key financial ratios derived from income statements, balance sheets
 and cash flow statements.
 
 ## Dataset
